@@ -32,7 +32,7 @@ paginate: 3
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  behance: https://t.me/url_save_bot
+  behance:
   dribbble:
   email:
   facebook:
